@@ -1,0 +1,13 @@
+{
+  "name": "E-commerce Market Analysis Tool",
+  "budget_inr_per_month": 3000,
+  "description": "A market analysis tool for e-commerce to track highest-selling products each month.",
+  "tech_stack": {
+    "front_end": "React",
+    "back_end": "Node.js",
+    "database": "MongoDB",
+    "proxy_server": "Nginx",
+    "hosting": "AWS"
+  },
+  "non_functional_requirements": []
+}
