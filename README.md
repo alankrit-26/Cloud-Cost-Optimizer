@@ -32,7 +32,7 @@ Features
 Setup Instructions:
 
 Clone the repository:
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/alankrit-26/cloud-cost-optimizer.git)
 cd cloud-cost-optimizer
 
 
