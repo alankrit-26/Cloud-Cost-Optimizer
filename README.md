@@ -24,9 +24,9 @@ Features
 
 5. Menu-Driven CLI Orchestrator
 
-6. Cloud-Agnostic & Multi-Cloud Recommendations
+6. Multi-Cloud Recommendations
 
-7. Open-Source & Free-Tier Suggestions
+7. Open-Source Suggestions
 
 
 Setup Instructions:
@@ -55,7 +55,9 @@ How to Run:-
 
 python cli.py
 
+==============================
  Cloud Cost Optimizer CLI
+==============================
 1. Enter new project description
 2. Run complete cost analysis
 3. View recommendations
